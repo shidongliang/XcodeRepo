@@ -1,0 +1,353 @@
+TContacts
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch Contacts/Contacts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o /Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts normal i386
+cCopyStringsFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings Contacts/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets
+cProcessInfoPlistFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist
+cGenerateDSYMFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+cTouch /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005350A7950000000000000198
+t1397794709
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED03900000000000003B4
+t1394528313
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED043000000000000019E
+t1394528323
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005350A7350000000000446820
+t1397794613
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED049000000000088D8C0
+t1394528329
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531ED0510000000001F1DE10
+t1394528337
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED0710000000000000ADC
+t1394528369
+s2780
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist
+c0000000053FAD88A000000000000049D
+t1408948362
+s1181
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Prefix.pch
+c0000000053FAD88A0000000000000158
+t1408948362
+s344
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets
+c0000000053FAD88A0000000000000088
+t1408948362
+s136
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m
+c0000000053FADA0E00000000000009FC
+t1408948750
+s2556
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/en.lproj/InfoPlist.strings
+c0000000053FAD88A000000000000002D
+t1408948362
+s45
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m
+c0000000053FAD88A0000000000000159
+t1408948362
+s345
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m
+c0000000053FAD8DD0000000000000D09
+t1408948445
+s3337
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts.LinkFileList
+c0000000053FADA0E00000000000001CA
+t1408948750
+s458
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o
+t1408948750
+s67808
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o
+t1408948750
+s43984
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o
+t1408948750
+s3584
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_dependencies.txt
+t1408948751
+s394
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_generated_info.plist
+t1408948751
+s525
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app
+t1408948751
+s272
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM
+t2
+s0
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+t1408948750
+s22440
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist
+t1408948751
+s994
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/PkgInfo
+t1408948751
+s8
+
+N/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings
+t1408948750
+s42
+
+N/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch
+t1408948750
+s122228
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies71ae498e11abb941^2b175a8e11abb941^---0#1#1#--18"Check dependencies36"DF95C5B0-729C-4C82-8742-5F537883A2A8-
+
+CCompileAssetCatalog /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets
+s430641550.564402
+e430641551.811611
+r1
+xCompileAssetCatalog
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/LaunchImage-700-568h@2x.png
+o/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Assets.car
+o/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"CompileAssetCatalog build/Debug-iphonesimulator/Contacts.app Contacts/Images.xcassets85"CompileAssetCatalog build/Debug-iphonesimulator/Contacts.app Contacts/Images.xcassetsef92908e11abb941^a8c6cf8f11abb941^-422"/* com.apple.actool.compilation-results *//Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/LaunchImage-700-568h@2x.png/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Assets.car/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets/0000000000000000^1180"CompileAssetCatalog build/Debug-iphonesimulator/Contacts.app Contacts/Images.xcassets    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Images.xcassets36"92DE88EF-98E3-477A-BDFE-6C1B66D050F4-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430641550.415725
+e430641550.519876
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.h
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m195"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o Contacts/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree946a8e11abb941^9b37868e11abb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m0000000000000000^3789"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o Contacts/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.dia -c /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.m -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o36"CD393FAD-1C5B-48A2-BE14-17B2A989A3E7-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o /Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430641550.415370
+e430641550.492649
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.h
+o/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m:47:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m:54:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m239"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o ContactsList/PCContactsListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e776a8e11abb941^971d7e8e11abb941^-472"/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m:47:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m:54:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-430641550#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@110"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m0000000000000000^46#1#46#1#1083#0#18"#warning Directive--2@33"Incomplete method implementation.-430641550#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@110"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m0000000000000000^53#1#53#1#1284#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@110"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m0000000000000000^3917"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o ContactsList/PCContactsListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.dia -c /Users/administrator/Documents/XcodeWorkspace/Contacts/ContactsList/PCContactsListTableViewController.m -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o36"583F1C6F-580A-438F-8753-ED8A65646BC2-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430641550.415115
+e430641550.461049
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/PCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m177"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o Contacts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler425b6a8e11abb941^a307768e11abb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m0000000000000000^3735"CompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o Contacts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.dia -c /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/main.m -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o36"E9B2BBB5-EC6E-432F-A470-55E7F40F0C55-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CCopyStringsFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings Contacts/en.lproj/InfoPlist.strings
+s430641550.564068
+e430641550.565249
+r1
+xCopyStringsFile
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings
+xContacts/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Contacts/en.lproj/InfoPlist.strings119"CopyStringsFile build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings Contacts/en.lproj/InfoPlist.strings1477908e11abb941^ddb5908e11abb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile build/Debug-iphonesimulator/Contacts.app/en.lproj/InfoPlist.strings Contacts/en.lproj/InfoPlist.strings    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/en.lproj -- Contacts/en.lproj/InfoPlist.strings36"3B691044-46B6-4C94-8776-DE42DC43D7F8-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CGenerateDSYMFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+s430641551.815107
+e430641551.842161
+r1
+xGenerateDSYMFile
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM112"GenerateDSYMFile build/Debug-iphonesimulator/Contacts.app.dSYM build/Debug-iphonesimulator/Contacts.app/Contacts6fbbd08f11abb941^fa98d78f11abb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM0034e07fdeffdf42^679"GenerateDSYMFile build/Debug-iphonesimulator/Contacts.app.dSYM build/Debug-iphonesimulator/Contacts.app/Contacts    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM36"27F5F691-2FEE-4407-9EFD-3ABE05C11D1F-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CLd /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts normal i386
+s430641550.521000
+e430641550.563302
+r1
+xLd
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+xnormal
+xi386
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCContactsListTableViewController.o
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/PCAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts64"Ld build/Debug-iphonesimulator/Contacts.app/Contacts normal i3860c78858e11abb941^c234908e11abb941^---0#0#1#--1431"Ld build/Debug-iphonesimulator/Contacts.app/Contacts normal i386    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator -F/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator -filelist /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts_dependency_info.dat -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts36"482D3796-6A66-4251-9CFB-1FC822BD285D-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CProcessInfoPlistFile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist
+s430641551.812304
+e430641551.814533
+r1
+xProcessInfoPlistFile
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist
+x/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist101"ProcessInfoPlistFile build/Debug-iphonesimulator/Contacts.app/Info.plist Contacts/Contacts-Info.plist6807d08f11abb941^0586d08f11abb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist0000000000000000^930"ProcessInfoPlistFile build/Debug-iphonesimulator/Contacts.app/Info.plist Contacts/Contacts-Info.plist    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Info.plist -genpkginfo /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/assetcatalog_generated_info.plist -o /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist36"D9C6EFCF-5E3A-4740-9910-EDA1708F2F01-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CProcessPCH /Users/administrator/Library/Developer/Xcode/DerivedData/Contacts-anmihacgsgcptzafsexwrxklbhpy/Index/PrecompiledHeaders/Contacts-Prefix-exegvfjgsaevlvfswvmryyyudaoq_ast/Contacts-Prefix.pch.pch Contacts/Contacts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch Contacts/Contacts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430641550.345849
+e430641550.414449
+r1
+xProcessPCH
+x/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch
+xContacts/Contacts-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Contacts/Contacts-Prefix.pch294"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch Contacts/Contacts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf3ac588e11abb941^b9196a8e11abb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Prefix.pch0000000000000000^3817"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch Contacts/Contacts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/Contacts    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.d -c /Users/administrator/Documents/XcodeWorkspace/Contacts/Contacts/Contacts-Prefix.pch -o /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Contacts-Prefix-cxgzydtckcifvvgtajdqfieizbvp/Contacts-Prefix.pch.pch36"4AFD3EBE-0FBF-4AD4-984A-25E1E9EFF7F8-
+b369229E3-1438-4A43-B228-8493EC858A84
+
+CTouch /Users/administrator/Documents/XcodeWorkspace/Contacts/build/Debug-iphonesimulator/Contacts.app
+r0
+
