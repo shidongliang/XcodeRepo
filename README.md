@@ -1,4 +1,3 @@
-ExpandableList
-==============
+contacts项目中，使用ChineseToPinyin，将中国汉字转换为拼音，实现汉字的拼音排序和归类
 
-a expandable tableview 
+expandedlist项目则是实现了点击cell之后cell展开，呈现下拉列表的形式。也包含点击headerView展开cell列表。
