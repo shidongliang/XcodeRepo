@@ -1,0 +1,750 @@
+TExpandedList
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch ExpandedList/ExpandedList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList normal i386
+cCopyStringsFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings ExpandedList/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets
+cProcessInfoPlistFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Info.plist /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist
+cGenerateDSYMFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList
+cTouch /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005350A7950000000000000198
+t1397794709
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED03900000000000003B4
+t1394528313
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED043000000000000019E
+t1394528323
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531ED046000000000058E0E0
+t1394528326
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531ED04800000000005B82F0
+t1394528328
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005350A7350000000000446820
+t1397794613
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531ED04800000000003599D0
+t1394528328
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531ED04800000000002FC3B0
+t1394528328
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531ED048000000000004B000
+t1394528328
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED049000000000088D8C0
+t1394528329
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531ED04C0000000000037680
+t1394528332
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531ED04D000000000048F720
+t1394528333
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531ED04D000000000013FD70
+t1394528333
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531ED0510000000001F1DE10
+t1394528337
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531ED06400000000002BC360
+t1394528356
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531ED06A0000000000002338
+t1394528362
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531ED06B000000000008D370
+t1394528363
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531ED06B0000000000392E20
+t1394528363
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537ED0AC00000000000141F0
+t1400819884
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531ED06C0000000000014A80
+t1394528364
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531ED06C0000000000033BA0
+t1394528364
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531ED06C000000000001CFB0
+t1394528364
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531ED06C000000000001B2B0
+t1394528364
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531ED06C00000000000C9570
+t1394528364
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531ED06C0000000000063280
+t1394528364
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531ED06C0000000000008880
+t1394528364
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531ED06C0000000000015080
+t1394528364
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531ED06C00000000000230F0
+t1394528364
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531ED06C000000000000E380
+t1394528364
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531ED06C0000000000089380
+t1394528364
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531ED06C0000000000017320
+t1394528364
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531ED06C0000000000039CD0
+t1394528364
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531ED06C000000000000B0B0
+t1394528364
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531ED06C0000000000167E80
+t1394528364
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531ED06C00000000000106A0
+t1394528364
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531ED06C000000000001CE40
+t1394528364
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531ED06C00000000000740C0
+t1394528364
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531ED06C000000000006CA60
+t1394528364
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531ED06C000000000001BAD0
+t1394528364
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531ED06C0000000000084A20
+t1394528364
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED0710000000000000ADC
+t1394528369
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005350A735000000000000514C
+t1397794613
+s20812
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.h
+c0000000053FAF5960000000000000238
+t1408955798
+s568
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m
+c0000000053FAF596000000000000091F
+t1408955798
+s2335
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.h
+c0000000053FAF212000000000000014B
+t1408954898
+s331
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m
+c0000000053FAFDD4000000000000170C
+t1408957908
+s5900
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.h
+c0000000053FAF21200000000000001D2
+t1408954898
+s466
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m
+c0000000053FAF3850000000000000421
+t1408955269
+s1057
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist
+c0000000053FAEB5B000000000000049D
+t1408953179
+s1181
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Prefix.pch
+c0000000053FAEB5B0000000000000158
+t1408953179
+s344
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets
+c0000000053FAEB5B0000000000000088
+t1408953179
+s136
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.h
+c0000000053FAEB5B0000000000000121
+t1408953179
+s289
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m
+c0000000053FAEC8300000000000009D9
+t1408953475
+s2521
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/en.lproj/InfoPlist.strings
+c0000000053FAEB5B000000000000002D
+t1408953179
+s45
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m
+c0000000053FAEB5B000000000000015D
+t1408953179
+s349
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app
+t1408957908
+s272
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM
+t1408957908
+s102
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList
+t1408957908
+s49696
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Info.plist
+t1408953586
+s1006
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/PkgInfo
+t1408953586
+s8
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings
+t1408953585
+s42
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/ExpandedList.LinkFileList
+c0000000053FAF212000000000000033D
+t1408954898
+s829
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o
+t1408955798
+s67808
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o
+t1408955798
+s65024
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o
+t1408957908
+s68876
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o
+t1408955269
+s48936
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o
+t1408953585
+s3604
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_dependencies.txt
+t1408953586
+s422
+
+N/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_generated_info.plist
+t1408953586
+s525
+
+N/usr/lib/libSystem.B.dylib
+c00000000537ED08E000000000000E6D0
+t1400819854
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526773170000000000012A00
+t1382511383
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526772F0000000000002E320
+t1382511344
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526773030000000000021860
+t1382511363
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BC57ED000000000001B610
+t1404852205
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267731600000000000BD920
+t1382511382
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000537ED0AC00000000000141F0
+t1400819884
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052677317000000000000A120
+t1382511383
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BC57ED000000000001D550
+t1404852205
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526773150000000000014EE0
+t1382511381
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526773190000000000010380
+t1382511385
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052677319000000000000C4C0
+t1382511385
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267731700000000000357A0
+t1382511383
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052677317000000000000C070
+t1382511383
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537ED0A70000000000010630
+t1400819879
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BC57ED000000000001DF10
+t1404852205
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526773030000000000075B00
+t1382511363
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053BC57ED000000000007CD60
+t1404852205
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267730300000000000766C0
+t1382511363
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526773030000000000021FA0
+t1382511363
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531FE7EC000000000002D920
+t1394599916
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052677317000000000001E570
+t1382511383
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BC57ED000000000000CC70
+t1404852205
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005267730F000000000000C3F0
+t1382511375
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267731800000000000199F0
+t1382511384
+s104944
+
+N/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch
+t1408953585
+s122476
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m
+r0
+
+CBuild AST from /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesecddeb2d73acb941^9164fe2d73acb941^---0#1#1#--18"Check dependencies36"5525F6E7-40D5-4BF4-B2D0-3CDEE227DD2E-
+
+CCompileAssetCatalog /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets
+s430646385.873196
+e430646386.197713
+r1
+xCompileAssetCatalog
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/LaunchImage-700-568h@2x.png
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Assets.car
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CompileAssetCatalog build/Debug-iphonesimulator/ExpandedList.app ExpandedList/Images.xcassets93"CompileAssetCatalog build/Debug-iphonesimulator/ExpandedList.app ExpandedList/Images.xcassets7c9edf7124abb941^b69d327224abb941^-450"/* com.apple.actool.compilation-results *//Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/LaunchImage-700-568h@2x.png/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Assets.car/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@95"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets/0000000000000000^1232"CompileAssetCatalog build/Debug-iphonesimulator/ExpandedList.app ExpandedList/Images.xcassets    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Images.xcassets36"6187AA90-8A9B-4FB0-8235-3B2CEABDA80F-
+b48ED83CE-9C92-42F0-986D-5EC998125CE6
+
+CCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430648598.326665
+e430648598.441115
+r1
+xCompileC
+xbuild/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.h
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.h
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.h
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m207"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o ExpandedList/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12be53162dabb941^70ed70162dabb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m0000000000000000^3953"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o ExpandedList/PCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.dia -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.m -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o36"543CAC71-4973-4F09-9853-4131786E9668-
+bCD37B219-E55B-4135-85A8-E21338C8E377
+
+CCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430648598.326947
+e430648598.440619
+r1
+xCompileC
+xbuild/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.h
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m:70:44: warning: undeclared selector 'showSubView:' [-Wundeclared-selector]
+o    [self.phoneCall addTarget:self action:@selector(showSubView:) forControlEvents:UIControlEventTouchUpInside];
+o                                           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m244"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o ExpandedList/Expanded/PCExpandedListTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler45d553162dabb941^8acc70162dabb941^-365"/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m:70:44: warning: undeclared selector 'showSubView:' [-Wundeclared-selector]    [self.phoneCall addTarget:self action:@selector(showSubView:) forControlEvents:UIControlEventTouchUpInside];                                           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"Undeclared selector 'showSubView:'-430648598#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@117"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m0000000000000000^69#43#69#43#2112#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@117"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m0000000000000000^4055"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o ExpandedList/Expanded/PCExpandedListTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.dia -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.m -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o36"C9C234E2-E8C9-4CCD-9F1D-0C26AEA72A21-
+bCD37B219-E55B-4135-85A8-E21338C8E377
+
+CCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430650708.384611
+e430650708.466235
+r1
+xCompileC
+xbuild/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.h
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewCell.h
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.h
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m:83:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m:90:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m256"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o ExpandedList/Expanded/PCExpandedListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b9f625435abb941^ea5a775435abb941^-498"/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m:83:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m:90:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-430650708#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@123"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m0000000000000000^82#1#82#1#2746#0#18"#warning Directive--2@33"Incomplete method implementation.-430650708#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m0000000000000000^89#1#89#1#2970#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@123"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m0000000000000000^4091"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o ExpandedList/Expanded/PCExpandedListTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.dia -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCExpandedListTableViewController.m -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o36"BE348749-6D6F-4AF0-844A-C3290BFA0473-
+b9CA45A53-011A-4848-B7EF-F907EEAD5DB9
+
+CCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430648069.189593
+e430648069.278005
+r1
+xCompileC
+xbuild/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m214"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o ExpandedList/Expanded/PCHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler629f30052babb941^fe2b47052babb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m0000000000000000^3965"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o ExpandedList/Expanded/PCHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.dia -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/Expanded/PCHeaderView.m -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o36"5D8E5A64-E978-4231-A087-E302BE08F20A-
+bBF8887D3-F4B5-4AAB-A0DE-154DC0F0742B
+
+CCompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430646385.735120
+e430646385.785025
+r1
+xCompileC
+xbuild/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/PCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m189"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o ExpandedList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d47bc7124abb941^40fcc87124abb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m0000000000000000^3899"CompileC build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o ExpandedList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.dia -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/main.m -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o36"D5D060C4-5B93-45B5-A8F1-56691F3740E5-
+b48ED83CE-9C92-42F0-986D-5EC998125CE6
+
+CCopyStringsFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings ExpandedList/en.lproj/InfoPlist.strings
+s430646385.872875
+e430646385.873924
+r1
+xCopyStringsFile
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings
+xExpandedList/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ExpandedList/en.lproj/InfoPlist.strings127"CopyStringsFile build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings ExpandedList/en.lproj/InfoPlist.strings8481df7124abb941^34badf7124abb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/en.lproj/InfoPlist.strings0000000000000000^635"CopyStringsFile build/Debug-iphonesimulator/ExpandedList.app/en.lproj/InfoPlist.strings ExpandedList/en.lproj/InfoPlist.strings    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/en.lproj -- ExpandedList/en.lproj/InfoPlist.strings36"5C5637AE-DDC9-4904-BFEB-FD67C3A4EBE1-
+b48ED83CE-9C92-42F0-986D-5EC998125CE6
+
+CGenerateDSYMFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList
+s430650708.506948
+e430650708.525209
+r1
+xGenerateDSYMFile
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM124"GenerateDSYMFile build/Debug-iphonesimulator/ExpandedList.app.dSYM build/Debug-iphonesimulator/ExpandedList.app/ExpandedList13d3815435abb941^7e74865435abb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM/0000000000000000^715"GenerateDSYMFile build/Debug-iphonesimulator/ExpandedList.app.dSYM build/Debug-iphonesimulator/ExpandedList.app/ExpandedList    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app.dSYM36"16B75575-B5BF-4093-BCD2-CB17EB092984-
+b9CA45A53-011A-4848-B7EF-F907EEAD5DB9
+
+CLd /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList normal i386
+s430650708.468235
+e430650708.505468
+r1
+xLd
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList
+xnormal
+xi386
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/ExpandedList.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/main.o
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCHeaderView.o
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCAppDelegate.o
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewController.o
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/PCExpandedListTableViewCell.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList72"Ld build/Debug-iphonesimulator/ExpandedList.app/ExpandedList normal i3864eee775435abb941^ec67815435abb941^---0#0#1#--1495"Ld build/Debug-iphonesimulator/ExpandedList.app/ExpandedList normal i386    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator -filelist /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/ExpandedList.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/Objects-normal/i386/ExpandedList_dependency_info.dat -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/ExpandedList36"0DDE7CE4-39B7-4806-A083-80572B8C0688-
+b9CA45A53-011A-4848-B7EF-F907EEAD5DB9
+
+CProcessInfoPlistFile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Info.plist /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist
+s430646386.198247
+e430646386.200196
+r1
+xProcessInfoPlistFile
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Info.plist
+x/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist113"ProcessInfoPlistFile build/Debug-iphonesimulator/ExpandedList.app/Info.plist ExpandedList/ExpandedList-Info.plistd0d1327224abb941^5b41337224abb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist0000000000000000^986"ProcessInfoPlistFile build/Debug-iphonesimulator/ExpandedList.app/Info.plist ExpandedList/ExpandedList-Info.plist    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Info.plist -genpkginfo /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/assetcatalog_generated_info.plist -o /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app/Info.plist36"75E0AC0E-6C61-4F27-B933-5EFD4C74AC4C-
+b48ED83CE-9C92-42F0-986D-5EC998125CE6
+
+CProcessPCH /Users/administrator/Library/Developer/Xcode/DerivedData/ExpandedList-asulxmpqewiitnfguqnuqqpehjmh/Index/PrecompiledHeaders/ExpandedList-Prefix-gfgepajxgxuxlxecmdoalgjrjzwy_ast/ExpandedList-Prefix.pch.pch ExpandedList/ExpandedList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch ExpandedList/ExpandedList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430646385.688448
+e430646385.734478
+r1
+xProcessPCH
+x/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch
+xExpandedList/ExpandedList-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile ExpandedList/ExpandedList-Prefix.pch310"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch ExpandedList/ExpandedList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b53b07124abb941^4607bc7124abb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Prefix.pch0000000000000000^3969"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch ExpandedList/ExpandedList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Documents/XcodeWorkspace/ExpandedList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-generated-files.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-own-target-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-all-target-headers.hmap -iquote /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/ExpandedList-project-headers.hmap -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources/i386 -I/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/ExpandedList.build/Debug-iphonesimulator/ExpandedList.build/DerivedSources -F/Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.d -c /Users/administrator/Documents/XcodeWorkspace/ExpandedList/ExpandedList/ExpandedList-Prefix.pch -o /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ExpandedList-Prefix-bqmsfembozizysddjhpsaewszqbf/ExpandedList-Prefix.pch.pch36"48067428-1FDF-4AD6-912E-A666D2DE700E-
+b48ED83CE-9C92-42F0-986D-5EC998125CE6
+
+CTouch /Users/administrator/Documents/XcodeWorkspace/ExpandedList/build/Debug-iphonesimulator/ExpandedList.app
+r0
+
