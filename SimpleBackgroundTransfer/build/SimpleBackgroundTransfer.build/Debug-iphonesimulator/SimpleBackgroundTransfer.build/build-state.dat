@@ -1,0 +1,723 @@
+TSimpleBackgroundTransfer
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer normal i386
+cCopyStringsFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings SimpleBackgroundTransfer/en.lproj/InfoPlist.strings
+cCpResource ReadMe.txt build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt
+cCompileStoryboard /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets
+cProcessInfoPlistFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist
+cGenerateDSYMFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer
+cTouch /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005350A7950000000000000198
+t1397794709
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED03900000000000003B4
+t1394528313
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED043000000000000019E
+t1394528323
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531ED046000000000058E0E0
+t1394528326
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531ED04800000000005B82F0
+t1394528328
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005350A7350000000000446820
+t1397794613
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531ED04800000000003599D0
+t1394528328
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531ED04800000000002FC3B0
+t1394528328
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531ED048000000000004B000
+t1394528328
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED049000000000088D8C0
+t1394528329
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531ED04C0000000000037680
+t1394528332
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531ED04D000000000048F720
+t1394528333
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531ED04D000000000013FD70
+t1394528333
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531ED0510000000001F1DE10
+t1394528337
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531ED06400000000002BC360
+t1394528356
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531ED06A0000000000002338
+t1394528362
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531ED06B000000000008D370
+t1394528363
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531ED06B0000000000392E20
+t1394528363
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+c00000000531ED06C00000000001D35B0
+t1394528364
+s1914288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537ED0AC00000000000141F0
+t1400819884
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531ED06C0000000000014A80
+t1394528364
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531ED06C0000000000033BA0
+t1394528364
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531ED06C000000000001CFB0
+t1394528364
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531ED06C000000000001B2B0
+t1394528364
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531ED06C00000000000C9570
+t1394528364
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531ED06C0000000000063280
+t1394528364
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531ED06C0000000000008880
+t1394528364
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531ED06C0000000000015080
+t1394528364
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531ED06C00000000000230F0
+t1394528364
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531ED06C000000000000E380
+t1394528364
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531ED06C0000000000089380
+t1394528364
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531ED06C0000000000017320
+t1394528364
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531ED06C0000000000039CD0
+t1394528364
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531ED06C000000000000B0B0
+t1394528364
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531ED06C0000000000167E80
+t1394528364
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531ED06C00000000000106A0
+t1394528364
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531ED06C000000000001CE40
+t1394528364
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531ED06C00000000000740C0
+t1394528364
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531ED06C000000000006CA60
+t1394528364
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531ED06C000000000001BAD0
+t1394528364
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531ED06C0000000000084A20
+t1394528364
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED0710000000000000ADC
+t1394528369
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005350A735000000000000514C
+t1397794613
+s20812
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/ReadMe.txt
+c0000000051C351630000000000000448
+t1371754851
+s1096
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.h
+c00000000524B74490000000000000A9A
+t1380676681
+s2714
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m
+c00000000524B74490000000000000C49
+t1380676681
+s3145
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.h
+c00000000524B74490000000000000A47
+t1380676681
+s2631
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m
+c0000000053D8B5DB0000000000002C30
+t1406711259
+s11312
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard
+c0000000051E6CD720000000000001782
+t1374080370
+s6018
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets
+c00000000524B74490000000000000088
+t1380676681
+s136
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist
+c0000000053D21D70000000000000046A
+t1406279024
+s1130
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch
+c0000000051C3516300000000000001A4
+t1371754851
+s420
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/en.lproj/InfoPlist.strings
+c0000000051C35163000000000000002D
+t1371754851
+s45
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m
+c00000000524B74490000000000000A5A
+t1380676681
+s2650
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app
+t1406711260
+s340
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM
+t1406710367
+s102
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Base.lproj/Main.storyboardc
+t1406278279
+s170
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist
+t1406279322
+s1001
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/PkgInfo
+t1406279322
+s8
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt
+t1406278266
+s1096
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer
+t1406711260
+s41864
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings
+t1406278266
+s42
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o
+t1406278265
+s63712
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o
+t1406711260
+s85540
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/SimpleBackgroundTransfer.LinkFileList
+c0000000053D21A77000000000000021E
+t1406278263
+s542
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o
+t1406278265
+s3620
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_dependencies.txt
+t1406278277
+s461
+
+N/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_generated_info.plist
+t1406278277
+s525
+
+N/usr/lib/libSystem.B.dylib
+c00000000537ED08E000000000000E6D0
+t1400819854
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526773170000000000012A00
+t1382511383
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526772F0000000000002E320
+t1382511344
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526773030000000000021860
+t1382511363
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BC57ED000000000001B610
+t1404852205
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267731600000000000BD920
+t1382511382
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000537ED0AC00000000000141F0
+t1400819884
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052677317000000000000A120
+t1382511383
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BC57ED000000000001D550
+t1404852205
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526773150000000000014EE0
+t1382511381
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526773190000000000010380
+t1382511385
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052677319000000000000C4C0
+t1382511385
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267731700000000000357A0
+t1382511383
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052677317000000000000C070
+t1382511383
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537ED0A70000000000010630
+t1400819879
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BC57ED000000000001DF10
+t1404852205
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526773030000000000075B00
+t1382511363
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053BC57ED000000000007CD60
+t1404852205
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267730300000000000766C0
+t1382511363
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526773030000000000021FA0
+t1382511363
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531FE7EC000000000002D920
+t1394599916
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052677317000000000001E570
+t1382511383
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BC57ED000000000000CC70
+t1404852205
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005267730F000000000000C3F0
+t1382511375
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267731800000000000199F0
+t1382511384
+s104944
+
+N/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch
+t1406278265
+s116932
+
+CBuild AST from /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m
+r0
+
+CBuild AST from /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m
+r0
+
+CBuild AST from /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9949e45bed88b941^a59fe45bed88b941^---0#1#1#--18"Check dependencies36"69C24ADF-37BD-4F96-85E2-79C5D02645E7-
+
+CCompileAssetCatalog /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets
+s427971066.972281
+e427971077.029956
+r1
+xCompileAssetCatalog
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/LaunchImage-700-568h@2x.png
+o/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Assets.car
+o/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CompileAssetCatalog build/Debug-iphonesimulator/SimpleBackgroundTransfer.app SimpleBackgroundTransfer/Images.xcassets117"CompileAssetCatalog build/Debug-iphonesimulator/SimpleBackgroundTransfer.app SimpleBackgroundTransfer/Images.xcassetsb001f9fa5182b941^f5f70a055282b941^-489"/* com.apple.actool.compilation-results *//Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/LaunchImage-700-568h@2x.png/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Assets.car/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@104"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets/0000000000000000^1313"CompileAssetCatalog build/Debug-iphonesimulator/SimpleBackgroundTransfer.app SimpleBackgroundTransfer/Images.xcassets    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Images.xcassets36"09F7DDD1-3CA4-484F-AF43-EBB4B568C22A-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427971065.098338
+e427971065.239411
+r1
+xCompileC
+xbuild/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m245"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o SimpleBackgroundTransfer/APLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler655419f95182b941^904a3df95182b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m0000000000000000^4247"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o SimpleBackgroundTransfer/APLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-generated-files.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-own-target-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-all-target-headers.hmap -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-project-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources/i386 -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources -F/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.d --serialize-diagnostics /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.dia -c /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.m -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o36"7187897F-B862-4E45-9F52-8CBE605A378F-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428404059.893388
+e428404060.005675
+r1
+xCompileC
+xbuild/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.h
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.h
+o/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m:55:2: warning: To run this sample correctly, you must set an appropriate URL here. [-W#warnings]
+o#warning To run this sample correctly, you must set an appropriate URL here.
+o ^
+o/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m:181:2: warning: insert imagedata into talbe [-W#warnings]
+o#warning insert imagedata into talbe
+o ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m251"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o SimpleBackgroundTransfer/APLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler64cde45bed88b941^1d74015ced88b941^-499"/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m:55:2: warning: To run this sample correctly, you must set an appropriate URL here. [-W#warnings]#warning To run this sample correctly, you must set an appropriate URL here. ^/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m:181:2: warning: insert imagedata into talbe [-W#warnings]#warning insert imagedata into talbe ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@67"To run this sample correctly, you must set an appropriate URL here.-428404060#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m0000000000000000^54#1#54#1#2576#0#18"#warning Directive--2@27"Insert imagedata into talbe-428404060#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m0000000000000000^180#1#180#1#7024#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@107"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m0000000000000000^4265"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o SimpleBackgroundTransfer/APLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-generated-files.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-own-target-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-all-target-headers.hmap -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-project-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources/i386 -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources -F/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.d --serialize-diagnostics /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.dia -c /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLViewController.m -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o36"E879BAD9-19C4-4CD6-ACD7-0F0A75D53B43-
+b7E3D91C1-37AE-4EC7-BAA5-A057492A74C3
+
+CCompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427971065.099342
+e427971065.233624
+r1
+xCompileC
+xbuild/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/APLAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m225"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o SimpleBackgroundTransfer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd19019f95182b941^81cf3bf95182b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m0000000000000000^4187"CompileC build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o SimpleBackgroundTransfer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-generated-files.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-own-target-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-all-target-headers.hmap -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-project-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources/i386 -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources -F/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator -include /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch -MMD -MT dependencies -MF /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.dia -c /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/main.m -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o36"6F5465AD-CA8A-41E8-A02A-795F126D11C2-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CCompileStoryboard /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard
+s427971066.970945
+e427971079.734867
+r1
+xCompileStoryboard
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"CompileStoryboard SimpleBackgroundTransfer/Base.lproj/Main.storyboard69"CompileStoryboard SimpleBackgroundTransfer/Base.lproj/Main.storyboard15a9f8fa5182b941^6020bc075282b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard0000000000000000^932"CompileStoryboard SimpleBackgroundTransfer/Base.lproj/Main.storyboard    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Base.lproj/Main.storyboardc /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/Base.lproj/Main.storyboard36"E9512DB4-1A6E-4B35-AC3A-437FEE17C4D4-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CCopyStringsFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings SimpleBackgroundTransfer/en.lproj/InfoPlist.strings
+s427971066.970398
+e427971067.003834
+r1
+xCopyStringsFile
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings
+xSimpleBackgroundTransfer/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy SimpleBackgroundTransfer/en.lproj/InfoPlist.strings151"CopyStringsFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings SimpleBackgroundTransfer/en.lproj/InfoPlist.strings8388f8fa5182b941^a0fd00fb5182b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/en.lproj/InfoPlist.strings0000000000000000^677"CopyStringsFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj/InfoPlist.strings SimpleBackgroundTransfer/en.lproj/InfoPlist.strings    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/en.lproj -- SimpleBackgroundTransfer/en.lproj/InfoPlist.strings36"05DF1303-F7A6-47C3-A710-5C36DD5FA9C6-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CCpResource ReadMe.txt build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt
+s427971066.970595
+e427971066.987594
+r1
+xCpResource
+xReadMe.txt
+xbuild/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt89"CpResource ReadMe.txt build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt7992f8fa5182b941^aed3fcfa5182b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt0034a421dfffdf42^640"CpResource ReadMe.txt build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/ReadMe.txt    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/administrator/Downloads/SimpleBackgroundTransfer/ReadMe.txt /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app36"5B1AD70D-3101-4461-8F37-2C9179A955A0-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CGenerateDSYMFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer
+s428404060.041540
+e428404060.057388
+r1
+xGenerateDSYMFile
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM160"GenerateDSYMFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer6dae0a5ced88b941^85b40e5ced88b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM/0000000000000000^778"GenerateDSYMFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app.dSYM36"8A475ABA-9890-4B7D-9141-D24FCA7F5D7B-
+b7E3D91C1-37AE-4EC7-BAA5-A057492A74C3
+
+CLd /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer normal i386
+s428404060.007483
+e428404060.039765
+r1
+xLd
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer
+xnormal
+xi386
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/SimpleBackgroundTransfer.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLAppDelegate.o
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/APLViewController.o
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer96"Ld build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer normal i386d3f8015ced88b941^b22e0a5ced88b941^---0#0#1#--1607"Ld build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer normal i386    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator -F/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator -filelist /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/SimpleBackgroundTransfer.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lsqlite3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/Objects-normal/i386/SimpleBackgroundTransfer_dependency_info.dat -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/SimpleBackgroundTransfer36"AA226B6D-A973-480E-9500-0D2D456C3E83-
+b7E3D91C1-37AE-4EC7-BAA5-A057492A74C3
+
+CProcessInfoPlistFile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist
+s427972122.177317
+e427972122.200260
+r1
+xProcessInfoPlistFile
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Process /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist149"ProcessInfoPlistFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist47722d1a5682b941^6746331a5682b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist0000000000000000^1079"ProcessInfoPlistFile build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Info.plist -genpkginfo /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/assetcatalog_generated_info.plist -o /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app/Info.plist36"3E3D2D25-470A-450E-BBEE-15EBD7D755A5-
+b682AC89F-B0AF-46C7-8EC2-0BEB5E97AA03
+
+CProcessPCH /Users/administrator/Library/Developer/Xcode/DerivedData/SimpleBackgroundTransfer-cgqbuuespotgysfiwkaijqlquzla/Index/PrecompiledHeaders/SimpleBackgroundTransfer-Prefix-gtllbsqqsetyhqbevkunoixqghgu_ast/SimpleBackgroundTransfer-Prefix.pch.pch SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427971063.749623
+e427971065.097480
+r1
+xProcessPCH
+x/var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch
+xSimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch358"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler971fc0f75182b941^83f818f95182b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch0000000000000000^4266"ProcessPCH /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/administrator/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-generated-files.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-own-target-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-all-target-headers.hmap -iquote /Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/SimpleBackgroundTransfer-project-headers.hmap -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources/i386 -I/Users/administrator/Downloads/SimpleBackgroundTransfer/build/SimpleBackgroundTransfer.build/Debug-iphonesimulator/SimpleBackgroundTransfer.build/DerivedSources -F/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.d -c /Users/administrator/Downloads/SimpleBackgroundTransfer/SimpleBackgroundTransfer/SimpleBackgroundTransfer-Prefix.pch -o /var/folders/fd/f05vx46s3334969mnbhjz4gm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SimpleBackgroundTransfer-Prefix-chzbqeqzqwqidigwfsrdhdulzght/SimpleBackgroundTransfer-Prefix.pch.pch36"F7EC651B-45ED-44DB-B5DB-B6FA47B09938-
+bAA4BD67E-3E99-4578-B862-294F79E396DE
+
+CTouch /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app
+s427972122.219808
+e427972122.249083
+r1
+xTouch
+x/Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app62"Touch build/Debug-iphonesimulator/SimpleBackgroundTransfer.appec51381a5682b941^37c53f1a5682b941^---0#0#1#--456"Touch build/Debug-iphonesimulator/SimpleBackgroundTransfer.app    cd /Users/administrator/Downloads/SimpleBackgroundTransfer    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/administrator/Downloads/SimpleBackgroundTransfer/build/Debug-iphonesimulator/SimpleBackgroundTransfer.app36"4DC31C32-2BF3-4422-BF46-C85FB0F7B531-
+b682AC89F-B0AF-46C7-8EC2-0BEB5E97AA03
+
